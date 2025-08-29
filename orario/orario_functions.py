@@ -53,3 +53,4 @@ def callback_orario_cc_1(call):
             send_exam_schedule(call, "التربية", "https://go.up.edu.ps/tcc8wf")
         case "o_up_diploma":
             send_exam_schedule(call, "الدبلوم المتوسط", "https://go.up.edu.ps/1axc2j")
+
