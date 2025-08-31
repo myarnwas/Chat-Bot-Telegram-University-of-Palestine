@@ -47,7 +47,7 @@ def get_chat_user_id(message):
 
 @bot.message_handler(commands=['howto'])
 def send_howto(message):
-    github_link = "https://github.com/your-username/your-repo/blob/main/README.md"
+    github_link = "https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/tree/main"
     bot.reply_to(message, f"📖 لمزيد من التفاصيل حول كيفية استخدام البوت، اقرأ ملف الـ README هنا:\n\n{github_link}")
 
 
@@ -169,3 +169,4 @@ def close_bot(message):
     bot.stop_polling()
 
 bot.infinity_polling(timeout=60)
+
