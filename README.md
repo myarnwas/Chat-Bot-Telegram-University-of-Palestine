@@ -15,6 +15,7 @@ It provides quick access to academic information such as **exam schedules, FAQs,
 4.	To enable AI chat features, add your OpenAI API key in folder/file-name_functions.py:
     ```json
     { "api_key": "YOUR_OPENAI_KEY" }
+•	If you skip this step, the bot will still function normally but without AI-enhanced chat.
 
 
 ⸻
@@ -69,6 +70,17 @@ Install with pip:
 
 ⸻
 
+## 🔔 Notifications Feature
+
+The bot provides smart academic notifications to help students stay updated on:
+	•	Exam schedules
+	•	Tuition or fee deadlines
+	•	Class or graduation schedule updates
+
+Students can customize which notifications to receive via the /notifications command.
+
+⸻
+
 ## 📑 Methodology
 
 1. **Requirement Analysis** – Identified student needs (schedules, FAQs, grants, notifications).  
@@ -112,7 +124,7 @@ Install with pip:
 ### 🚀 Getting Started
 
 1.	Install Telegram on your device.
-2.	Start the Bot by searching for it in Telegram or [clicking here](https://t.me/n8n_mayar_prompt_bot)
+2.	Start the Bot by searching for it in <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20" height="20"> Telegram or [clicking here](https://t.me/n8n_mayar_prompt_bot)
 3.	Send /start to initiate the conversation.
 
 ### 🧭 Available Commands
