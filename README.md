@@ -112,7 +112,7 @@ Install with pip:
 ### 🚀 Getting Started
 
 	1.	Install Telegram on your device.
-	2.	Start the Bot by searching for it in Telegram or clicking here https://t.me/n8n_mayar_prompt_bot.
+	2.	Start the Bot by searching for it in Telegram or [clicking here] (https://t.me/n8n_mayar_prompt_bot)
 	3.	Send /start to initiate the conversation.
 
 ### 🧭 Available Commands
@@ -139,7 +139,7 @@ Use the following commands to access various features:
 
 ### ⚠️ Notes
 	•	Only text, files, audio, and video inputs are supported. Stickers, locations, or contacts are not processed.
-	•	For detailed instructions, visit the GitHub repository.
+	•	For detailed instructions, visit the GitHub repository: [GitHub Link](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/tree/main)
 
 ⸻
 
