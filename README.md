@@ -110,6 +110,4 @@ Workflow Diagram:
 
 Bot Interface Example:
 
-Place screenshots of Telegram bot interactions in the images/ folder.
-
-تحبي أعملها لك؟
+Place screenshots of Telegram bot interactions in the images/ folder. 
