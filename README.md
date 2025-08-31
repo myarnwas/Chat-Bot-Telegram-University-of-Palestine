@@ -13,7 +13,7 @@ It provides quick access to academic information such as **exam schedules, FAQs,
     ```json
    { "token": "YOUR_TELEGRAM_BOT_TOKEN" }
 4.	To enable AI chat features, add your OpenAI API key in folder/file-name_functions.py:
-    ```bash
+    ```json
     { "api_key": "YOUR_OPENAI_KEY" }
 
 
@@ -37,7 +37,6 @@ from pydub import AudioSegment
 
 
 Install with pip:
-    ```bash
     
     pip install sqlite3 apscheduler pyTelegramBotAPI openai pypdf2 python-docx faster-whisper pydub
 
@@ -45,13 +44,12 @@ Install with pip:
 ⸻
 
 ## 🚀 How to Run the Bot
-	1.	Open a terminal in the project root.
-	2.	Run the bot script:
-      ```bash
-            
-      python main.py
+1.	Open a terminal in the project root.
+2.	Run the bot script:
 
-  3.	Open Telegram, search for your bot, and start interacting using the commands below.
+  	    python main.py
+
+  4.	Open Telegram, search for your bot, and start interacting using the commands below.
 
 ⸻
 
