@@ -56,7 +56,7 @@ Install with pip:
 ⸻
 
 ## 📝 Bot Commands & Features
-|----------------|-------------------------------------------------|
+
 | Command        | Description                                     |
 |----------------|-------------------------------------------------|
 | /start         | Start the bot and view welcome message          |
@@ -67,7 +67,7 @@ Install with pip:
 | /notifications | 🔔 Smart academic notifications                 |
 | /howto         | ℹ️ How to use the bot                           |
 | /close         | ✖️ Close the bot session                        |
-|----------------|-------------------------------------------------|
+
 
 ⸻
 
@@ -82,28 +82,27 @@ Install with pip:
 
 ## 📂 Project Structure
 
-├── chat/
-│   ├── __init__function.py
-│   ├── chat_function.py
-│   └── chat_markup.py
-├── orario/
-│   ├── orario_functions.py
-│   └── orario_markup.py
-├── adisu/
-│   ├── adisu_functions.py
-│   └── adisu_markup.py
-├── sedute/
-│   ├── sedute_functions.py
-│   └── sedute_markup.py
-├── Notifications/
-│   ├── __init__function.py
-│   ├── notifications_function.py
-│   └── notifications_markup.py
-├── main.py
-├── telegram_token.json (do NOT upload to GitHub)
-├── openai_key (do NOT upload to GitHub)
-└── README.md
-
+    ├── chat/
+    │   ├── __init__function.py
+    │   ├── chat_function.py
+    │   └── chat_markup.py
+    ├── orario/
+    │   ├── orario_functions.py
+    │   └── orario_markup.py
+    ├── adisu/
+    │   ├── adisu_functions.py
+    │   └── adisu_markup.py
+    ├── sedute/
+    │   ├── sedute_functions.py
+    │   └── sedute_markup.py
+    ├── Notifications/
+    │   ├── __init__function.py
+    │   ├── notifications_function.py
+    │   └── notifications_markup.py
+    ├── main.py
+    ├── telegram_token.json (do NOT upload to GitHub)
+    ├── openai_key (do NOT upload to GitHub)
+    └── README.md
 
 ⸻
 
