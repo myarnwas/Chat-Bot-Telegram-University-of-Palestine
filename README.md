@@ -110,13 +110,15 @@ Install with pip:
 > Welcome to the University of Palestine’s Telegram Chat Bot! This bot is designed to assist students with academic information, schedules, FAQs, and more. Here’s how to get started:
 
 ### 🚀 Getting Started
+
 	1.	Install Telegram on your device.
-	2.	Start the Bot by searching for it in Telegram or clicking here.
+	2.	Start the Bot by searching for it in Telegram or clicking here https://t.me/n8n_mayar_prompt_bot.
 	3.	Send /start to initiate the conversation.
 
 ### 🧭 Available Commands
 
 Use the following commands to access various features:
+
 	•	/start – Welcome message and main menu.
 	•	/orario – View class and exam schedules.
 	•	/sedute – Access graduation plans and schedules.
@@ -129,10 +131,10 @@ Use the following commands to access various features:
 ### 💬 Chat Features
 	1.	Tap /chat to open the chat menu.
 	2.	Choose the type of input:
-	•	Text – Send a text message to the bot.
-	•	File – Upload a file for analysis.
-	•	Audio – Record and send a voice message.
-	•	Video – Send a video message.
+	   •	Text – Send a text message to the bot.
+	   •	File – Upload a file for analysis.
+	   •	Audio – Record and send a voice message.
+	   •	Video – Send a video message.
 	3.	The bot will process your input and respond accordingly.
 
 ### ⚠️ Notes
