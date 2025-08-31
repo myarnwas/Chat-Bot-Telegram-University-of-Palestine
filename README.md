@@ -76,6 +76,7 @@ Install with pip:
 3. **Implementation** – Python 3.11, `pyTelegramBotAPI`, optional AI via OpenAI API.  
 4. **Testing & Deployment** – Local testing on Windows 11, improved error handling.  
 5. **Future Improvements** – AI-powered responses, database integration, cloud deployment.
+   
 ⸻
 
 ## 📂 Project Structure
@@ -101,6 +102,42 @@ Install with pip:
     ├── telegram_token.json (do NOT upload to GitHub)
     ├── openai_key (do NOT upload to GitHub)
     └── README.md
+
+⸻
+
+## 📘 How to Use the University Chat Bot
+
+> Welcome to the University of Palestine’s Telegram Chat Bot! This bot is designed to assist students with academic information, schedules, FAQs, and more. Here’s how to get started:
+
+### 🚀 Getting Started
+	1.	Install Telegram on your device.
+	2.	Start the Bot by searching for it in Telegram or clicking here.
+	3.	Send /start to initiate the conversation.
+
+### 🧭 Available Commands
+
+Use the following commands to access various features:
+	•	/start – Welcome message and main menu.
+	•	/orario – View class and exam schedules.
+	•	/sedute – Access graduation plans and schedules.
+	•	/adisu – Get FAQs and grant information.
+	•	/chat – Chat with the bot using text, files, audio, or video.
+	•	/notifications – Enable smart notifications for events or deadlines.
+	•	/howto – Link to this guide on using the bot.
+	•	/close – End the bot session.
+
+### 💬 Chat Features
+	1.	Tap /chat to open the chat menu.
+	2.	Choose the type of input:
+	•	Text – Send a text message to the bot.
+	•	File – Upload a file for analysis.
+	•	Audio – Record and send a voice message.
+	•	Video – Send a video message.
+	3.	The bot will process your input and respond accordingly.
+
+### ⚠️ Notes
+	•	Only text, files, audio, and video inputs are supported. Stickers, locations, or contacts are not processed.
+	•	For detailed instructions, visit the GitHub repository.
 
 ⸻
 
