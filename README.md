@@ -19,7 +19,7 @@ It provides quick access to academic information such as **exam schedules, FAQs,
 
 ⸻
 
-🖥️ Dependencies / Libraries
+## 🖥️ Dependencies / Libraries
 
 Required Python libraries:
 
@@ -44,7 +44,7 @@ Install with pip:
 
 ⸻
 
-🚀 How to Run the Bot
+## 🚀 How to Run the Bot
 	1.	Open a terminal in the project root.
 	2.	Run the bot script:
       ```bash
@@ -55,31 +55,32 @@ Install with pip:
 
 ⸻
 
-📝 Bot Commands & Features
-
-Command	Description
-/start	Start the bot and view welcome message
-/orario	📅 Show class & exam schedules
-/adisu	❓ FAQs & grants
-/sedute	🎓 Graduation schedules & plans
-/chat	💬 Interactive chat (text, file, audio, video)
-/notifications	🔔 Smart academic notifications
-/howto	ℹ️ How to use the bot
-/close	✖️ Close the bot session
-
-
-⸻
-
-📑 Methodology
-	1.	Requirement Analysis – Identified student needs (schedules, FAQs, grants, notifications).
-	2.	System Design – Modular folders for features (chat/, orario/, adisu/, sedute/, Notifications/).
-	3.	Implementation – Python 3.11, pyTelegramBotAPI, optional AI via OpenAI API.
-	4.	Testing & Deployment – Local testing on Windows 11, improved error handling.
-	5.	Future Improvements – AI-powered responses, database integration, cloud deployment.
+## 📝 Bot Commands & Features
+|----------------|-------------------------------------------------|
+| Command        | Description                                     |
+|----------------|-------------------------------------------------|
+| /start         | Start the bot and view welcome message          |
+| /orario        | 📅 Show class & exam schedules                  |
+| /adisu         | ❓ FAQs & grants                                |
+| /sedute        | 🎓 Graduation schedules & plans                 |
+| /chat          | 💬 Interactive chat (text, file, audio, video). |
+| /notifications | 🔔 Smart academic notifications                 |
+| /howto         | ℹ️ How to use the bot                           |
+| /close         | ✖️ Close the bot session                        |
+|----------------|-------------------------------------------------|
 
 ⸻
 
-📂 Project Structure
+## 📑 Methodology
+
+1. **Requirement Analysis** – Identified student needs (schedules, FAQs, grants, notifications).  
+2. **System Design** – Modular folders for features (`chat/`, `orario/`, `adisu/`, `sedute/`, `Notifications/`).  
+3. **Implementation** – Python 3.11, `pyTelegramBotAPI`, optional AI via OpenAI API.  
+4. **Testing & Deployment** – Local testing on Windows 11, improved error handling.  
+5. **Future Improvements** – AI-powered responses, database integration, cloud deployment.
+⸻
+
+## 📂 Project Structure
 
 ├── chat/
 │   ├── __init__function.py
@@ -106,7 +107,7 @@ Command	Description
 
 ⸻
 
-📸 Workflow & Screenshots
+## 📸 Workflow & Screenshots
 
 Workflow Diagram:
 
