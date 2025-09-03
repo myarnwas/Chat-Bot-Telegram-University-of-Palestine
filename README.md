@@ -3,6 +3,7 @@
 > 🤖 A Telegram-based academic assistant bot built with **Python 3.11** and **pyTelegramBotAPI**.  
 It provides quick access to academic information such as **exam schedules, FAQs, grants, notifications, and interactive chat features** for students.
 
+![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/HEIF%20Image.heic)
 ---
 
 ## ⚠️ Before You Start
