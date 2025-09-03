@@ -159,7 +159,9 @@ Use the following commands to access various features:
 ## 📸 Workflow & Screenshots
 
 Workflow Diagram:
-
+![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5426.jpeg)
+![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5425.jpeg)
 Bot Interface Example:
+![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5423.jpeg)
 ![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5423.jpeg?raw=true)
 Place screenshots of Telegram bot interactions in the root project. 
