@@ -161,5 +161,5 @@ Use the following commands to access various features:
 Workflow Diagram:
 
 Bot Interface Example:
-
-Place screenshots of Telegram bot interactions in the images/ folder. 
+![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5423.jpeg?raw=true)
+Place screenshots of Telegram bot interactions in the root project. 
