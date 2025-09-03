@@ -163,5 +163,5 @@ Workflow Diagram:
 ![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5425.jpeg)
 Bot Interface Example:
 ![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5423.jpeg)
-![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5423.jpeg?raw=true)
+![وصف](https://github.com/myarnwas/Chat-Bot-Telegram-University-of-Palestine/blob/main/IMG_5424.jpeg)
 Place screenshots of Telegram bot interactions in the root project. 
